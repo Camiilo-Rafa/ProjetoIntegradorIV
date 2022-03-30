@@ -16,13 +16,15 @@
               crossorigin="anonymous" />
     </head>
     <body>
+        <img src="Resources/notebook_lenovo">
         <div class="container">
             <c:import url="../uteis/header.jsp"/>
             <br><br><br>
             <h1><center>Visualizar produtos</center></h1>
             <br><br>
+            
             <form class="col-md-7 offset-md-3 jumbotron">
-                <h1><img src="Resources/notebook_lenovo" alt="Notebook Lenovo IdeaPad"></h1>
+                
                 <p class="sacola">
                     
                 <h1>Notebook Lenovo por apenas R$2.799,90</h1>
