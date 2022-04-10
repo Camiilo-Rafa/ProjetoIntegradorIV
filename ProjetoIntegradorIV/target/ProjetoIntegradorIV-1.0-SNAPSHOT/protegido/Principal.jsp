@@ -30,95 +30,85 @@
             </form>
         </section>
         <section class="menu-departamentos">
-            <h2>Departamentos</h2>
+            <h2>SESSÕES</h2>
             <nav>
                 <ul>
-                    <li><a href="#">Blusas e camisas</a>
+                    <li><a href="#">Smartphones e Notebooks</a>
                         <ul>
-                            <li><a href="#">Manga curta</a></li>
-                            <li><a href="#">Manga comprida</a></li>
-                            <li><a href="#">Camisa social</a></li>
-                            <li><a href="#">Camisa casual</a></li>
+                            <li><a href="#">Notebook Lenovo</a></li>
+                            <li><a href="#">Celulares Samsung</a></li>
+                            <li><a href="#">Iphones</a></li>
                         </ul>
                     </li>         
-                    <li><a href="#">Calças</a></li> 
-                    <li><a href="#">Saias</a></li> 
-                    <li><a href="#">Vestidos</a></li> 
-                    <li><a href="#">Sapatos</a></li> 
-                    <li><a href="#">Bolsas e carteiras</a></li> 
-                    <li><a href="#">Acessórios</a></li> 
+                    <li><a href="#">Televisões</a></li> 
+                    <li><a href="#">Tablets</a></li> 
+                    <li><a href="#">Fones de ouvido</a></li> 
                 </ul>
             </nav>
         </section>
-        <section class="banner-destaque">
-            <figure>
-                <img src="img/destaque-home.png" 
-                     alt="promoção: Big City Nigth">
-            </figure>
-        </section>
     </div>
     <div class="container paineis" >
-        <section class="painel novidades">
-            <h2>Novidades</h2>
+        <section class="Painel Destaques">
+            <h2>Destaques</h2>
             <ol>
                 <li>
                     <a href="produto.html">
                         <figure>
-                            <img src="img/produtos/miniatura1.png" alt="miniatura1">
-                            <figcaption>Fuzz Cardigan por R$ 129,90</figcaption>
+                            <img src="Resources/bg.png" alt="miniatura1">
+                            <figcaption>Galaxy S10 Plus por R$ 2849,90</figcaption>
                         </figure>
                     </a>    
                 </li>
                 <li>
                     <a href="produto.html">
                         <figure>
-                            <img src="img/produtos/miniatura2.png" alt="miniatura2">
-                            <figcaption>Camiseta azul por R$ 79,90</figcaption>
+                            <img src="Resources/bg.png" alt="miniatura1">
+                            <figcaption>Notebook Lenovo IdeaPad por R$ 2999,90</figcaption>
                         </figure>
-                    </a>    
+                    </a>
                 </li>
                 <li>
                     <a href="produto.html">
                         <figure>
-                            <img src="img/produtos/miniatura3.png" alt="miniatura3">
-                            <figcaption>Blusa verde por R$ 69,90</figcaption>
+                            <img src="Resources/bg.png" alt="miniatura1">
+                            <figcaption>Iphone 13 Pro Max por R$ 6449,90</figcaption>
                         </figure>
-                    </a>    
+                    </a>
                 </li>
                 <li>
                     <a href="produto.html">
                         <figure>
-                            <img src="img/produtos/miniatura4.png" alt="miniatura4">
-                            <figcaption>Jaqueta vinho por R$ 129,90</figcaption>
+                            <img src="Resources/bg.png" alt="miniatura1">
+                            <figcaption>Iphone 13 Mini por R$ 3749,90</figcaption>
                         </figure>
-                    </a>    
+                    </a>
                 </li>
                 <li>
                     <a href="produto.html">
                         <figure>
-                            <img src="img/produtos/miniatura5.png" alt="miniatura5">
-                            <figcaption>Regata azul por R$ 39,90</figcaption>
+                            <img src="Resources/bg.png" alt="miniatura1">
+                            <figcaption>Iphone 11 Pro por R$ 3149,90</figcaption>
                         </figure>
-                    </a>    
+                    </a>
                 </li>
                 <li>
                     <a href="produto.html">
                         <figure>
-                            <img src="img/produtos/miniatura6.png" alt="miniatura6">
-                            <figcaption>Regata rosa por R$ 39,90</figcaption>
+                            <img src="Resources/bg.png" alt="miniatura1">
+                            <figcaption>Galaxy S10 por R$ 2549,90</figcaption>
                         </figure>
-                    </a>    
+                    </a>
                 </li>
             </ol>
         </section>
-        <section class="painel mais-vendidos">
-            <h2>Mais vendidos</h2>
+        <section class="painel Mais-Pesquisados">
+            <h2>Mais Pesquisados</h2>
             <ol>
                 <li>
                     <a href="produto.html">
                         <figure>
                             <img src="img/produtos/miniatura7.png" alt="miniatura7">
-                            <figcaption>Camiseta verde por R$ 39,90</figcaption>
+                            <figcaption>Iphone 11 Pro por R$ 3149,90</figcaption>
                         </figure>
                     </a>    
                 </li>
@@ -126,7 +116,7 @@
                     <a href="produto.html">
                         <figure>
                             <img src="img/produtos/miniatura8.png" alt="miniatura8">
-                            <figcaption>Cam. turqueza por R$ 39,90</figcaption>
+                            <figcaption>Iphone 12 Mini por R$ 4149,90</figcaption>
                         </figure>
                     </a>    
                 </li>
@@ -134,7 +124,7 @@
                     <a href="produto.html">
                         <figure>
                             <img src="img/produtos/miniatura9.png" alt="miniatura9">
-                            <figcaption>Camisa xadrez por R$ 39,90</figcaption>
+                            <figcaption>Samsung S22 Plus por R$ 4349,90</figcaption>
                         </figure>
                     </a>    
                 </li>
@@ -142,38 +132,13 @@
                     <a href="produto.html">
                         <figure>
                             <img src="img/produtos/miniatura10.png" alt="miniatura10">
-                            <figcaption>Camisa rosa por R$ 39,90</figcaption>
-                        </figure>
-                    </a>    
-                </li>
-                <li>
-                    <a href="produto.html">
-                        <figure>
-                            <img src="img/produtos/miniatura11.png" alt="miniatura11">
-                            <figcaption>Shorts verde por R$ 39,90</figcaption>
-                        </figure>
-                    </a>    
-                </li>
-                <li>
-                    <a href="produto.html">
-                        <figure>
-                            <img src="img/produtos/miniatura12.png" alt="miniatura12">
-                            <figcaption>Camisa azul por R$ 69,90</figcaption>
+                            <figcaption>Notebook Lenovo IdeaPad por R$ 2999,90</figcaption>
                         </figure>
                     </a>    
                 </li>
             </ol>
         </section>
     </div>
-    <footer>
-        <div class="container">
-            <img src="img/logo-rodape.png" alt="Logo da Mirror Fashion">
-            <ul class="social">
-                <li><a href="http://facebook.com/mirrorfashion">Facebook</a></li>
-                <li><a href="http://twitter.com/mirrorfashion">Twitter</a></li>
-                <li><a href="http://plus.google.com/mirrorfashion">Google+</a></li>
-            </ul>
-        </div>
-    </footer>
+   
 </body>
 </html>
