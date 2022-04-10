@@ -16,7 +16,6 @@
               crossorigin="anonymous" />
     </head>
     <body>
-        <img src="Resources/notebook_lenovo">
         <div class="container">
             <c:import url="../uteis/header.jsp"/>
             <br><br><br>
@@ -24,7 +23,7 @@
             <br><br>
             
             <form class="col-md-7 offset-md-3 jumbotron">
-                
+                <img src="Resources/notebook_lenovo">
                 <p class="sacola">
                     
                 <h1>Notebook Lenovo por apenas R$2.799,90</h1>
